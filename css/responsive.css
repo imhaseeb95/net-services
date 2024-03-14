@@ -50,6 +50,9 @@
 		font-size: 1rem;
 		color: var(--color-white);
 	}
+	nav ul li a:hover {
+		color: var(--color-white);
+	}
 	/* .get-quotation-container {
 		display: none;
 	} */
