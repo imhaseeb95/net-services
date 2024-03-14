@@ -188,7 +188,7 @@ nav ul li:first-child a {
 }
 
 .quotation {
-	padding: 1rem;
+	padding: 0.7rem 1rem;
 	background: var(--e-globle-color-secondry);
 	font-size: 1rem;
 	color: var(--color-white);
